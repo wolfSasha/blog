@@ -1,0 +1,32 @@
+.aDiv{
+    background-color:blue;
+    margin-left:15%;
+    margin-right:15%;
+    margin-top: 15%;
+};
+.b{
+    text-align:center
+};
+ul.navi{
+    margin-left: 0px;
+    padding-left: 0px;
+    list-style: none; 
+}
+.navi li { 
+    display: inline;
+}
+ul.navi a {
+    display: inline-block;
+    width: 30%;
+    padding:10px;
+    margin: 0 5px;
+    background-color: #360ee9;
+    border: 0px dashed #333;
+    text-decoration: none;
+    color: rgb(247, 243, 243);
+    text-align: center;
+}
+ul.navi a:hover{
+    background-color: rgb(79, 32, 207);
+    color: #f4f4f4;
+}
